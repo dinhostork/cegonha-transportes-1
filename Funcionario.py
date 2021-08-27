@@ -1,9 +1,9 @@
 class Funcionario:
-    def __init__(nome):
+    def __init__(self,nome):
         self.nome = nome
        
     
-    def getNome():
+    def getNome(self):
         return self.nome
         
     
